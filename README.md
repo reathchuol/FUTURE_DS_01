@@ -48,7 +48,10 @@ The Power BI dashboard provides a comprehensive view of business performance:
 *	Top 10 products by revenue (Bar Chart)
 *	Revenue distribution by region (Column Chart)
 *	Country-level contribution (Treemap)
-*	Revenue vs Quantity relationship (Scatter Plot)	
+*	Revenue vs Quantity relationship (Scatter Plot)
+
+# View the Business_Sales_Performance_Dashboard here https://shorturl.at/se4I4
+[View My Dashboard]( https://shorturl.at/se4I4) 
 
 # Key Insights
 # 1.	Top-Performing Products
