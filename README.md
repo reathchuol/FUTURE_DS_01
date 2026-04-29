@@ -50,8 +50,8 @@ The Power BI dashboard provides a comprehensive view of business performance:
 *	Country-level contribution (Treemap)
 *	Revenue vs Quantity relationship (Scatter Plot)
 
-# View the Business_Sales_Performance_Dashboard here https://shorturl.at/se4I4
-[View My Dashboard]( https://shorturl.at/se4I4) 
+# [Click here to view the Business_Sales_Performance_Dashboard]( https://shorturl.at/se4I4) 
+
 
 # Key Insights
 # 1.	Top-Performing Products
