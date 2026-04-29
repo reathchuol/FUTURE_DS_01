@@ -97,22 +97,21 @@ Leverage insights from revenue vs. quantity patterns to optimize pricing models.
 
 ## 📂 Project Structure
 ```
-business-sales-dashboard/
+FUTURE_DS_01/
 │
-├── assets/
-│   └── dashboard.png 
+├──
+│  └── dashboard.png 
 │   
 ├── data/
 │   ├── online_retail.csv
 │   └── online_retail_cleaned.csv
 │
-├── notebooks/
-│   └── Sales_Performance_Cleaning.ipynb
+├──
+│  └── Sales_Performance_Cleaning.ipynb
 │
-├── dashboard/
-│   └── Business_Sales_Performance_Dashboard.pbix
+├──
+│  └── Business_Sales_Performance_Dashboard.pbix
 │
-├── requirements.txt
 └── README.md
 
 ```
